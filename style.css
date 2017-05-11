@@ -19,7 +19,7 @@ body {
 
  img{ 
     width: 35%;
-    height: 230px;
+    height: auto;
     float: left;
     padding: 1em;
 }
