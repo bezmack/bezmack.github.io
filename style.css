@@ -1,0 +1,46 @@
+body {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.bio {
+	text-align: center;
+	background: #000;
+	color:#fff;
+	width: 100%;
+	margin: 0 auto;
+	padding:1em;
+
+}
+.container{
+	width: 95%;
+	margin: 0 auto;
+}
+
+ img{ 
+    width: 35%;
+    height: 230px;
+    float: left;
+    padding: 1em;
+}
+
+p {
+	width: 60%;
+    float: left;
+}
+
+h2{
+    padding: 0 1em;
+}
+
+.cont1 {
+	width:65%;
+    float: left;
+    padding: 1em;
+}
+
+.cont2 {
+	width: 25%;
+    float: right;
+    padding: 2%;
+}
